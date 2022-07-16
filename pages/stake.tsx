@@ -13,8 +13,8 @@ import type { NextPage } from "next";
 import { useEffect, useState } from "react";
 import styles from "../styles/Home.module.css";
 
-const nftDropContractAddress = "0x322067594DBCE69A9a9711BC393440aA5e3Aaca1";
-const tokenContractAddress = "0xb1cF059e6847e4270920a02e969CA2E016AeA22B";
+const nftDropContractAddress = "0x9a61eD18e984E24BeE4Ef31b7ed15e2d900ea6E1";
+const tokenContractAddress = "0x3C555E2eA9BD097a475b901DCC7DA500e6e25101";
 const stakingContractAddress = "0xB712975e13427ac804177E7CebF08781bbF9B89c";
 
 const Stake: NextPage = () => {
