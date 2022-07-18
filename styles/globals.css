@@ -42,3 +42,9 @@ body {
 h2 {
   font-size: 2rem;
 }
+
+
+  /* Section Images */
+  section#home {
+    background: url('https://images7.alphacoders.com/411/411820.jpg') no-repeat center center/cover;;
+  }
